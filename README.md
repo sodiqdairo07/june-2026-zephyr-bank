@@ -1,4 +1,5 @@
 **Zephyr Bank H1 2026 Transaction Health Report**
+
 Onyx Data DataDNA Challenge — June 2026
 A single-page Power BI dashboard analysing Zephyr Bank's transaction data for the first half of 2026. The report focuses on completion rates, fraud patterns, channel failures, fee revenue, and customer anomalies.
 Key Findings
